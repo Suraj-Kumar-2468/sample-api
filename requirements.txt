@@ -1,0 +1,11 @@
+pyjwt==2.0.0
+datetime
+uuid
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy==2.4.1
+flask
+flask_sqlalchemy
+werkzeug
+jwt
+datetime
+functools
